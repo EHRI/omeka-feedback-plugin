@@ -1,0 +1,14 @@
+Feedback
+========
+
+An Omeka plugin for saving user feedback on pages.
+
+Currently, this just provides a POST action which creates a feedback item and, if
+sender and recipient are configured, sends a notification email.
+
+TODO:
+
+ - Expand README
+ - Handle CSRF
+ - More validation/Capcha?
+ - Public interface/form/JS

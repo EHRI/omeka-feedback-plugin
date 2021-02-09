@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * @package     omeka-feedback-plugin
+ * @copyright   King's College London Department of Digital Humanities
+ * @license     https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
+ */
 
 class FeedbackItem extends Omeka_Record_AbstractRecord implements Zend_Acl_Resource_Interface
 {

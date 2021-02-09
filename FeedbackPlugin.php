@@ -1,9 +1,8 @@
 <?php
 /**
- * Feedback Plugin
- *
- * @copyright Copyright 2017 King's College London, Department of Digital Humanities
- * @license http://www.gnu.org/licenses/gpl-3.0.txt GNU GPLv3
+ * @package     omeka-feedback-plugin
+ * @copyright   King's College London Department of Digital Humanities
+ * @license     https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
  */
 
 /**

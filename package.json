@@ -1,0 +1,26 @@
+{
+  "name": "omeka-feedback-plugin",
+  "version": "1.0.0",
+  "description": "An Omeka plugin for leaving feedback on item pages",
+  "main": "plugin.ini",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHRI/omeka-feedback-plugin.git"
+  },
+  "keywords": [
+    "omeka"
+  ],
+  "author": "EHRI",
+  "license": "EUPL-1.2",
+  "bugs": {
+    "url": "https://github.com/EHRI/omeka-feedback-plugin/issues"
+  },
+  "homepage": "https://github.com/EHRI/omeka-feedback-plugin#README.md",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-contrib-compress": "^2.0.0"
+  }
+}
